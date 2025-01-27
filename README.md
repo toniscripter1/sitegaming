@@ -31,9 +31,9 @@ UPG Ploiești</strong>.</p>
 <h1>Galerie</h1>
 <div class="carousel">
 <!-- Imagini carusel -->
-<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/70/capsule_616x353.jpg?t=1671593433" alt="League of Legends" class="carouselslide" style="width:100%; display:block;">
-<img src="https://i.pinimg.com/originals/ab/60/97/ab609786d5b774a130e8a57f23a44fbe.jpg" alt="Valorant" class="carousel-slide" style="width:100%; display:none;">
-<img src="https://cdn2.unrealengine.com/valorant-v1-1920x1080-0c5b315dbd04.jpg" alt="Joc gaming" class="carousel-slide" style="width:100%; display:none;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/League_of_Legends_Logo_2019.png" alt="League of Legends" class="carouselslide" style="width:100%; display:block;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Valorant_logo.png" alt="Valorant" class="carousel-slide" style="width:100%; display:none;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/53/PlayStation_5_Logo.svg" alt="Joc gaming" class="carousel-slide" style="width:100%; display:none;">
 </div>
 <button onclick="moveSlide(-1)">&#10094; Înapoi</button>
 <button onclick="moveSlide(1)">Înainte &#10095;</button>
